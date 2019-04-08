@@ -1,0 +1,14 @@
+{
+  "apps": [{
+    "serverURL": "https://jakserver.herokuapp.com/parse",
+    "appId": "JakSang",
+    "masterKey": "kingmaker2",
+    "appName": "Jaksapp"
+  }],
+  "users" : [
+    {
+      "user" : "andych5789",
+      "pass" : "dltkdals12"
+    }
+  ]
+}
